@@ -1,7 +1,7 @@
 
 [![xspec tests](https://github.com/jhellingman/tei2html/actions/workflows/test.yml/badge.svg)](https://github.com/jhellingman/tei2html/actions/workflows/test.yml)
 
-**note**: forked to include utf-8 as output
+**note**: forked from jhellingman/tei2html to include utf-8 encoding as output.
 
 # tei2html
 
