@@ -1,6 +1,8 @@
 
 [![xspec tests](https://github.com/jhellingman/tei2html/actions/workflows/test.yml/badge.svg)](https://github.com/jhellingman/tei2html/actions/workflows/test.yml)
 
+**note**: forked to include utf-8 as output
+
 # tei2html
 
 A collection of XSLT 3.0 style sheets to transform a document encoded in according to the TEILite DTD to HTML. 
