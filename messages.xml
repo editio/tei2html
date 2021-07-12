@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE msg:repository [
 
     <!ENTITY apos     "&#x2019;">
@@ -718,27 +718,27 @@
 
     <msg:messages xml:lang="fr">
 
-        <msg:message name="msgAbbreviation">Abbréviation</msg:message>
-        <msg:message name="msgAbbreviations">Abbréviations</msg:message>
+        <msg:message name="msgAbbreviation">Abbrï¿½viation</msg:message>
+        <msg:message name="msgAbbreviations">Abbrï¿½viations</msg:message>
         <msg:message name="msgAppendices">Annexes</msg:message>
         <msg:message name="msgAppendix">Annexe</msg:message>
-        <msg:message name="msgAvailability">Disponibilité</msg:message>
+        <msg:message name="msgAvailability">Disponibilitï¿½</msg:message>
         <msg:message name="msgBook">Livre</msg:message>
         <msg:message name="msgBooks">Livres</msg:message>
         <msg:message name="msgChapter">Chapitre</msg:message>
         <msg:message name="msgChapters">Chapitres</msg:message>
         <msg:message name="msgColophon">Colophon</msg:message>
         <msg:message name="msgColor">Couleur</msg:message>
-        <msg:message name="msgContents">Table des matières</msg:message>
+        <msg:message name="msgContents">Table des matiï¿½res</msg:message>
         <msg:message name="msgCorrection">Correction</msg:message>
         <msg:message name="msgCorrections">Corrections</msg:message>
-        <msg:message name="msgCorrectionsAppliedToText">Les corrections suivantes ont été effectuées:</msg:message>
-        <msg:message name="msgCountCorrectionsAppliedToText">Les <msg:param name="count"/> corrections suivantes ont été effectuées:</msg:message>
-        <msg:message name="msgCorrectionsOverview">Aperçu des corrections apportées au texte.</msg:message>
-        <msg:message name="msgDeleted">Retiré</msg:message>
+        <msg:message name="msgCorrectionsAppliedToText">Les corrections suivantes ont ï¿½tï¿½ effectuï¿½es:</msg:message>
+        <msg:message name="msgCountCorrectionsAppliedToText">Les <msg:param name="count"/> corrections suivantes ont ï¿½tï¿½ effectuï¿½es:</msg:message>
+        <msg:message name="msgCorrectionsOverview">Aperï¿½u des corrections apportï¿½es au texte.</msg:message>
+        <msg:message name="msgDeleted">Retirï¿½</msg:message>
         <msg:message name="msgEncoding">Encodage</msg:message>
-        <msg:message name="msgExternalReferences">Références externes</msg:message>
-        <msg:message name="msgExternalReferencesDisclaimer">Cet ebook du Project Gutenberg contient des références externes. Il se peut que les liens ne fonctionnent pas pour vous.</msg:message>
+        <msg:message name="msgExternalReferences">Rï¿½fï¿½rences externes</msg:message>
+        <msg:message name="msgExternalReferencesDisclaimer">Cet ebook du Project Gutenberg contient des rï¿½fï¿½rences externes. Il se peut que les liens ne fonctionnent pas pour vous.</msg:message>
         <msg:message name="msgFigure">Figure</msg:message>
         <msg:message name="msgFigures">Figures</msg:message>
         <msg:message name="msgHere">Ici</msg:message>
@@ -769,15 +769,15 @@
         <msg:message name="msgPgCatalogEntry">Page de catalogue du Project Gutenberg</msg:message>
         <msg:message name="msgPlate">Planche</msg:message>
         <msg:message name="msgPlates">Planches</msg:message>
-        <msg:message name="msgRevisionHistory">Historique des révisions</msg:message>
+        <msg:message name="msgRevisionHistory">Historique des rï¿½visions</msg:message>
         <msg:message name="msgSection">Section</msg:message>
         <msg:message name="msgSections">Sections</msg:message>
         <msg:message name="msgSource">Original</msg:message>
         <msg:message name="msgSources">Originaux</msg:message>
         <msg:message name="msgTable">Table</msg:message>
-        <msg:message name="msgTableOfContents">Table des matières</msg:message>
+        <msg:message name="msgTableOfContents">Table des matiï¿½res</msg:message>
         <msg:message name="msgTables">Tables</msg:message>
-        <msg:message name="msgToc">Table des matières</msg:message>
+        <msg:message name="msgToc">Table des matiï¿½res</msg:message>
         <msg:message name="msgTranscription">Transcription</msg:message>
         <msg:message name="msgTranscriptions">Transcriptions</msg:message>
         <msg:message name="msgVolume">Volume</msg:message>
@@ -786,17 +786,17 @@
         <!-- Days and Months -->
 
         <msg:message name="msgJanuary">Janvier</msg:message>
-        <msg:message name="msgFebruary">Février</msg:message>
+        <msg:message name="msgFebruary">Fï¿½vrier</msg:message>
         <msg:message name="msgMarch">Mars</msg:message>
         <msg:message name="msgApril">Avril</msg:message>
         <msg:message name="msgMay">Mai</msg:message>
         <msg:message name="msgJune">Juin</msg:message>
         <msg:message name="msgJuly">Juillet</msg:message>
-        <msg:message name="msgAugust">Août</msg:message>
+        <msg:message name="msgAugust">Aoï¿½t</msg:message>
         <msg:message name="msgSeptember">Septembre</msg:message>
         <msg:message name="msgOctober">Octobre</msg:message>
         <msg:message name="msgNovember">Novembre</msg:message>
-        <msg:message name="msgDecember">Décembre</msg:message>
+        <msg:message name="msgDecember">Dï¿½cembre</msg:message>
 
         <msg:message name="msgSunday">Dimanche</msg:message>
         <msg:message name="msgMonday">Lundi</msg:message>
@@ -816,16 +816,16 @@
         <msg:message name="el">Grec</msg:message>
         <msg:message name="en">Anglais</msg:message>
         <msg:message name="en-uk">Anglais (Royaume Uni)</msg:message>
-        <msg:message name="en-us">Anglais (États-Unis)</msg:message>
+        <msg:message name="en-us">Anglais (ï¿½tats-Unis)</msg:message>
         <msg:message name="es">Espagnol</msg:message>
         <msg:message name="fi">Finlandais</msg:message>
-        <msg:message name="fr">Français</msg:message>
+        <msg:message name="fr">Franï¿½ais</msg:message>
         <msg:message name="it">Italien</msg:message>
         <msg:message name="ja">Japonais</msg:message>
         <msg:message name="la">Latin</msg:message>
-        <msg:message name="nl">Néerlandais</msg:message>
+        <msg:message name="nl">Nï¿½erlandais</msg:message>
         <msg:message name="pt">Portugais</msg:message>
-        <msg:message name="pt-br">Portugais (Brésil)</msg:message>
+        <msg:message name="pt-br">Portugais (Brï¿½sil)</msg:message>
         <msg:message name="pt-pt">Portugais (Portugal)</msg:message>
         <msg:message name="tl">Tagalog</msg:message>
         <msg:message name="zh">Chinois</msg:message>
@@ -835,7 +835,7 @@
         <msg:message name="grc">Grec (Ancien)</msg:message>
 
         <!-- Private extentions -->
-        <msg:message name="nl-1900">Néerlandais (Ancienne orthographe)</msg:message>
+        <msg:message name="nl-1900">Nï¿½erlandais (Ancienne orthographe)</msg:message>
 
 
         <!-- Creating a list of items -->
@@ -851,16 +851,16 @@
         <!-- PG header and footer stuff -->
 
         <msg:message name="msgPGHeader">
-            <p>Le livre électronique par le Project Gutenberg de: <i><msg:param name="title"/></i>, par <b><msg:param name="authors"/></b>.</p>
-            <p class="smallprint">Ce livre électronique est destiné à l&apos;usage de tous, gratuitement
-            et pratiquement sans aucune restriction. Vous pouvez le copier, le donner ou le réutiliser
+            <p>Le livre ï¿½lectronique par le Project Gutenberg de: <i><msg:param name="title"/></i>, par <b><msg:param name="authors"/></b>.</p>
+            <p class="smallprint">Ce livre ï¿½lectronique est destinï¿½ ï¿½ l&apos;usage de tous, gratuitement
+            et pratiquement sans aucune restriction. Vous pouvez le copier, le donner ou le rï¿½utiliser
             selon les termes de la licence du Projet Gutenberg incluse <a href="#pglicense">dans ce livre</a>
-            ou présente en ligne sur <a href='https://www.gutenberg.org/'>www.gutenberg.org</a></p>
+            ou prï¿½sente en ligne sur <a href='https://www.gutenberg.org/'>www.gutenberg.org</a></p>
             <p class="smallprint">Titre: <msg:param name="title"/>.</p>
             <p class="smallprint">Auteur: <msg:param name="authors"/>.</p>
-            <p class="smallprint">Date de publication électronique: <msg:param name="releasedate"/> [EBook Number: <msg:param name="pgnum"/>]</p>
+            <p class="smallprint">Date de publication ï¿½lectronique: <msg:param name="releasedate"/> [EBook Number: <msg:param name="pgnum"/>]</p>
             <p class="smallprint">Langue: <msg:param name="language"/>.</p>
-            <p class="smallprint">Jeu de caractères d&apos;encodage: UTF-8.</p>
+            <p class="smallprint">Jeu de caractï¿½res d&apos;encodage: UTF-8.</p>
         </msg:message>
 
     </msg:messages>
@@ -873,18 +873,18 @@
 
         <msg:message name="msgQrCode">QR-Code</msg:message>
         <msg:message name="msgQrCodePgUrl">QR-Code der URL von Project Gutenberg</msg:message>
-        <msg:message name="msgTagUsageOverview">Übersicht der verwendeten TEI-Elemente</msg:message>
+        <msg:message name="msgTagUsageOverview">ï¿½bersicht der verwendeten TEI-Elemente</msg:message>
         <msg:message name="msgAttributes">Attribute</msg:message>
         <msg:message name="msgOccurrences">Vorkommen</msg:message>
         <msg:message name="msgOccurrences.abbr">Vork.</msg:message>
         <msg:message name="msgValues">Werte</msg:message>
-        <msg:message name="msgTranslator">Übersetzer</msg:message>
-        <msg:message name="msgReturnToNoteInText">Zurück zur Note im Text.</msg:message>
-        <msg:message name="msgReturnToNoteMarkInText">Zurück zur Note <msg:param name="mark"/> im Text.</msg:message>
+        <msg:message name="msgTranslator">ï¿½bersetzer</msg:message>
+        <msg:message name="msgReturnToNoteInText">Zurï¿½ck zur Note im Text.</msg:message>
+        <msg:message name="msgReturnToNoteMarkInText">Zurï¿½ck zur Note <msg:param name="mark"/> im Text.</msg:message>
         
         <msg:message name="msgPassim">Passim</msg:message>
-        <msg:message name="msgCountOccurrences"><msg:param name="count"/> Fälle</msg:message>
-        <msg:message name="msgContributor">Beiträger</msg:message>
+        <msg:message name="msgCountOccurrences"><msg:param name="count"/> Fï¿½lle</msg:message>
+        <msg:message name="msgContributor">Beitrï¿½ger</msg:message>
 
         <msg:message name="msgProjectGutenberg">Projekt Gutenberg</msg:message>
         <msg:message name="msgLibraryOfCongress">Kongressbibliothek</msg:message>
@@ -897,9 +897,9 @@
 
         <msg:message name="msgLinkToBible">Link zu zitierte Stelle in Bibel</msg:message>
         <msg:message name="msgEditDistance">Edit-Distanz</msg:message>
-        <msg:message name="msgAbbreviationOverview">Übersicht der Abkürzungen im Text.</msg:message>
+        <msg:message name="msgAbbreviationOverview">ï¿½bersicht der Abkï¿½rzungen im Text.</msg:message>
         <msg:message name="msgExpansion">Ausgeschriebene Form</msg:message>
-        <msg:message name="msgExpansionNotAvailable">Ausgeschriebene Form nicht verfügbar</msg:message>
+        <msg:message name="msgExpansionNotAvailable">Ausgeschriebene Form nicht verfï¿½gbar</msg:message>
         <msg:message name="msgUnknown">Unbekannt</msg:message>
 
         <msg:message name="msgTitle">Titel</msg:message>
@@ -908,15 +908,15 @@
         <msg:message name="msgLanguage">Sprache</msg:message>
         <msg:message name="msgClassCode">Class code</msg:message>
         <msg:message name="msgSourcePublisher">Herausgeber des Originals</msg:message>
-        <msg:message name="msgSourcePubPlace">Veröffentlichungsort des Originals</msg:message>
-        <msg:message name="msgSourcePublicationDate">Veröffentlichungsdatum des Originals</msg:message>
-        <msg:message name="msgPublicationDate">Veröffentlichungsdatum</msg:message>
+        <msg:message name="msgSourcePubPlace">Verï¿½ffentlichungsort des Originals</msg:message>
+        <msg:message name="msgSourcePublicationDate">Verï¿½ffentlichungsdatum des Originals</msg:message>
+        <msg:message name="msgPublicationDate">Verï¿½ffentlichungsdatum</msg:message>
         <msg:message name="msgCatalogEntry">Katalogeintrag</msg:message>
-        <msg:message name="msgCatalogEntries">Katalogeinträge</msg:message>
+        <msg:message name="msgCatalogEntries">Katalogeintrï¿½ge</msg:message>
         <msg:message name="msgAuthorOfIntroduction">Autor der Einleitung</msg:message>
 
-        <msg:message name="msgAbbreviation">Abkürzung</msg:message>
-        <msg:message name="msgAbbreviations">Abkürzungen</msg:message>
+        <msg:message name="msgAbbreviation">Abkï¿½rzung</msg:message>
+        <msg:message name="msgAbbreviations">Abkï¿½rzungen</msg:message>
         <msg:message name="msgAdvertisement">Anzeige</msg:message>
         <msg:message name="msgAdvertisements">Anzeigen</msg:message>
         <msg:message name="msgAnd">und</msg:message>
@@ -927,12 +927,12 @@
         <msg:message name="msgAppendix">Appendix</msg:message>
         <msg:message name="msgAuthor">Autor</msg:message>
         <msg:message name="msgAuthors">Autoren</msg:message>
-        <msg:message name="msgAuthorAddition">Vom Autor zugefügt</msg:message>
+        <msg:message name="msgAuthorAddition">Vom Autor zugefï¿½gt</msg:message>
         <msg:message name="msgAuthorCorrection">Autorkorrektur</msg:message>
-        <msg:message name="msgAvailability">Verfügbarkeit</msg:message>
+        <msg:message name="msgAvailability">Verfï¿½gbarkeit</msg:message>
         <msg:message name="msgBibliography">Bibliographie</msg:message>
         <msg:message name="msgBook">Buch</msg:message>
-        <msg:message name="msgBooks">Bücher</msg:message>
+        <msg:message name="msgBooks">Bï¿½cher</msg:message>
         <msg:message name="msgChapter">Kapitel</msg:message>
         <msg:message name="msgChapters">Kapitel</msg:message>
         <msg:message name="msgColophon">Kolophon</msg:message>
@@ -943,10 +943,10 @@
         <msg:message name="msgCorrections">Korrekturen</msg:message>
         <msg:message name="msgCorrectionsAppliedToText">Die folgenden Korrekturen sind am Text angewendet worden:</msg:message>
         <msg:message name="msgCountCorrectionsAppliedToText">Die folgenden <msg:param name="count"/> Korrekturen sind am Text angewendet worden:</msg:message>
-        <msg:message name="msgCorrectionsOverview">Übersicht der Korrekturen im Text</msg:message>
+        <msg:message name="msgCorrectionsOverview">ï¿½bersicht der Korrekturen im Text</msg:message>
         <msg:message name="msgCover">Umslag</msg:message>
         <msg:message name="msgCoverImage">Titelbild</msg:message>
-        <msg:message name="msgCovers">Umsläge</msg:message>
+        <msg:message name="msgCovers">Umslï¿½ge</msg:message>
         <msg:message name="msgDedication">Widmung</msg:message>
         <msg:message name="msgDeleted">Weggelassen</msg:message>
         <msg:message name="msgElement">Element</msg:message>
@@ -954,11 +954,11 @@
         <msg:message name="msgEncoding">Kodierung</msg:message>
         <msg:message name="msgExternalLink">Externe Link</msg:message>
         <msg:message name="msgExternalReferences">Externe Referenzen</msg:message>
-        <msg:message name="msgExternalReferencesDisclaimer">Dieses Project Gutenberg Buch enthält externe Referenzen. Diese Links können möglicherweise für Sie nicht funktionieren.</msg:message>
+        <msg:message name="msgExternalReferencesDisclaimer">Dieses Project Gutenberg Buch enthï¿½lt externe Referenzen. Diese Links kï¿½nnen mï¿½glicherweise fï¿½r Sie nicht funktionieren.</msg:message>
         <msg:message name="msgFigure">Figur</msg:message>
         <msg:message name="msgFigures">Figuren</msg:message>
         <msg:message name="msgFragment">Fragment</msg:message>
-        <msg:message name="msgGlossary">Wörterverzeichnis</msg:message>
+        <msg:message name="msgGlossary">Wï¿½rterverzeichnis</msg:message>
         <msg:message name="msgGuide">Wegweiser</msg:message>
         <msg:message name="msgGuides">Wegweiser</msg:message>
         <msg:message name="msgHere">Hier</msg:message>
@@ -967,7 +967,7 @@
         <msg:message name="msgImprint">Impressum</msg:message>
         <msg:message name="msgIndex">Index</msg:message>
         <msg:message name="msgKeyword">Stichwort</msg:message>
-        <msg:message name="msgKeywords">Stichwörter</msg:message>
+        <msg:message name="msgKeywords">Stichwï¿½rter</msg:message>
         <msg:message name="msgLibraryOfCongressCatalogEntry">Katalogseite der Library of Congress</msg:message>
         <msg:message name="msgLinkToOpenLibrary">Link zu OpenLibrary Katalogseite</msg:message>
         <msg:message name="msgLinkToPg">Link zu Project Gutenberg Ebook</msg:message>
@@ -996,8 +996,8 @@
         <msg:message name="bible.Ruth">Rut</msg:message>
         <msg:message name="bible.1 Samuel">1. Samuel</msg:message>
         <msg:message name="bible.2 Samuel">2. Samuel</msg:message>
-        <msg:message name="bible.1 Kings">1. Könige</msg:message>
-        <msg:message name="bible.2 Kings">2. Könige</msg:message>
+        <msg:message name="bible.1 Kings">1. Kï¿½nige</msg:message>
+        <msg:message name="bible.2 Kings">2. Kï¿½nige</msg:message>
         <msg:message name="bible.1 Chronicles">1. Chronik</msg:message>
         <msg:message name="bible.2 Chronicles">2. Chronik</msg:message>
         <msg:message name="bible.Ezra">Esra</msg:message>
@@ -1005,7 +1005,7 @@
         <msg:message name="bible.Esther">Ester</msg:message>
         <msg:message name="bible.Job">Ijob</msg:message>
         <msg:message name="bible.Psalm">Psalmen </msg:message>
-        <msg:message name="bible.Proverbs">Sprichwörter</msg:message>
+        <msg:message name="bible.Proverbs">Sprichwï¿½rter</msg:message>
         <msg:message name="bible.Ecclesiastes">Kohelet</msg:message>
         <msg:message name="bible.Song of Solomon">Hoheslied</msg:message>
         <msg:message name="bible.Isaiah">Jesaja</msg:message>
@@ -1026,12 +1026,12 @@
         <msg:message name="bible.Zechariah">Sacharja</msg:message>
         <msg:message name="bible.Malachi">Maleachi</msg:message>
 
-        <msg:message name="bible.Matthew">Matthäus</msg:message>
+        <msg:message name="bible.Matthew">Matthï¿½us</msg:message>
         <msg:message name="bible.Mark">Markus</msg:message>
         <msg:message name="bible.Luke">Lukas</msg:message>
         <msg:message name="bible.John">Johannes</msg:message>
         <msg:message name="bible.Acts of the Apostles">Apostelgeschichte</msg:message>
-        <msg:message name="bible.Romans">Römer</msg:message>
+        <msg:message name="bible.Romans">Rï¿½mer</msg:message>
         <msg:message name="bible.1 Corinthians">1. Korinther</msg:message>
         <msg:message name="bible.2 Corinthians">2. Korinther</msg:message>
         <msg:message name="bible.Galatians">Galater</msg:message>
@@ -1044,7 +1044,7 @@
         <msg:message name="bible.2 Timothy">2. Timotheus</msg:message>
         <msg:message name="bible.Titus">Titus</msg:message>
         <msg:message name="bible.Philemon">Philemon</msg:message>
-        <msg:message name="bible.Hebrews">Hebräer</msg:message>
+        <msg:message name="bible.Hebrews">Hebrï¿½er</msg:message>
         <msg:message name="bible.James">Jakobus</msg:message>
         <msg:message name="bible.1 Peter">1. Petrus</msg:message>
         <msg:message name="bible.2 Peter">2. Petrus</msg:message>
@@ -1069,21 +1069,21 @@
         <msg:message name="msgMissingText">Fehlender Text</msg:message>
         <msg:message name="msgMissingTextWithExtentReason">Fehlender Text: <msg:param name="extent"/> <msg:param name="unit"/>, aus dem folgende Grund: <msg:param name="reason"/>.</msg:message>
         <msg:message name="msgMissingTextWithReason">Fehlender Text, aus dem folgende Grund: <msg:param name="reason"/>.</msg:message>
-        <msg:message name="msgNext">Nächste</msg:message>
+        <msg:message name="msgNext">Nï¿½chste</msg:message>
         <msg:message name="msgNotApplicable">Nicht zutreffend</msg:message>
-        <msg:message name="msgNotCopyrightedUS">Dieses Buch ist frei von Urheberrechten in den Vereinigten Staaten. Wenn Sie in einem anderen Land wohnen, überprüfen Sie bitte die Gesetze in Ihrem Land, ehe Sie das Buch herunterladen.</msg:message>
+        <msg:message name="msgNotCopyrightedUS">Dieses Buch ist frei von Urheberrechten in den Vereinigten Staaten. Wenn Sie in einem anderen Land wohnen, ï¿½berprï¿½fen Sie bitte die Gesetze in Ihrem Land, ehe Sie das Buch herunterladen.</msg:message>
         <msg:message name="msgNote">Anmerkung</msg:message>
         <msg:message name="msgNotes">Anmerkungen</msg:message>
         <msg:message name="msgNotInSource">Nicht in der Quelle</msg:message>
         <msg:message name="msgOclcCatalogEntry">Katalogseite bei WorldCat</msg:message>
-        <msg:message name="msgOpenLibraryCatalogEntry">Katalogseite bei Open Library (für Quelle)</msg:message>
-        <msg:message name="msgOpenLibraryCatalogWorkEntry">Katalogseite bei Open Library (für Werk)</msg:message>
+        <msg:message name="msgOpenLibraryCatalogEntry">Katalogseite bei Open Library (fï¿½r Quelle)</msg:message>
+        <msg:message name="msgOpenLibraryCatalogWorkEntry">Katalogseite bei Open Library (fï¿½r Werk)</msg:message>
         <msg:message name="msgOr">oder</msg:message>
         <msg:message name="msgOriginal">Orginal</msg:message>
         <msg:message name="msgOriginals">Orginale</msg:message>
         <msg:message name="msgOrnament">Ornament</msg:message>
         <msg:message name="msgOrnaments">Ornamente</msg:message>
-        <msg:message name="msgOverviewForeignFragments">Übersicht der Fragmenten in Fremdsprachen</msg:message>
+        <msg:message name="msgOverviewForeignFragments">ï¿½bersicht der Fragmenten in Fremdsprachen</msg:message>
         <msg:message name="msgPage">Seite</msg:message>
         <msg:message name="msgPages">Seiten</msg:message>
         <msg:message name="msgParagraph">Paragraf</msg:message>
@@ -1096,8 +1096,8 @@
         <msg:message name="msgPreface">Vorwort</msg:message>
         <msg:message name="msgPrevious">Vorherige</msg:message>
         <msg:message name="msgReference">Referenz</msg:message>
-        <msg:message name="msgReturnToSourceLocation">Zurück zur Quelle</msg:message>
-        <msg:message name="msgRevisionHistory">Überblick der Revisionen</msg:message>
+        <msg:message name="msgReturnToSourceLocation">Zurï¿½ck zur Quelle</msg:message>
+        <msg:message name="msgRevisionHistory">ï¿½berblick der Revisionen</msg:message>
         <msg:message name="msgSection">Sektion</msg:message>
         <msg:message name="msgSections">Sektionen</msg:message>
         <msg:message name="msgSource">Quelle</msg:message>
@@ -1112,7 +1112,7 @@
         <msg:message name="msgTranscriptions">Transkriptionen</msg:message>
         <msg:message name="msgUrl">URL</msg:message>
         <msg:message name="msgVolume">Band</msg:message>
-        <msg:message name="msgVolumes">Bände</msg:message>
+        <msg:message name="msgVolumes">Bï¿½nde</msg:message>
 
         <msg:message name="msgListTwo"><msg:param name="first"/> und <msg:param name="second"/></msg:message>
         <msg:message name="msgListThree"><msg:param name="first"/>, <msg:param name="second"/> und <msg:param name="third"/></msg:message>
@@ -1123,7 +1123,7 @@
 
         <msg:message name="msgJanuary">Januar</msg:message>
         <msg:message name="msgFebruary">Februar</msg:message>
-        <msg:message name="msgMarch">März</msg:message>
+        <msg:message name="msgMarch">Mï¿½rz</msg:message>
         <msg:message name="msgApril">April</msg:message>
         <msg:message name="msgMay">Mai</msg:message>
         <msg:message name="msgJune">Juni</msg:message>
@@ -1149,23 +1149,23 @@
         <msg:message name="el">Griechisch</msg:message>
         <msg:message name="el-latn">Griechisch (lateinische Transkription)</msg:message>
         <msg:message name="en">Englisch</msg:message>
-        <msg:message name="en-uk">Englisch (Großbritannien)</msg:message>
+        <msg:message name="en-uk">Englisch (Groï¿½britannien)</msg:message>
         <msg:message name="en-us">Englisch (die Vereinigten Staaten)</msg:message>
         <msg:message name="es">Spanisch</msg:message>
         <msg:message name="fi">Finnisch</msg:message>
-        <msg:message name="fr">Französisch</msg:message>
+        <msg:message name="fr">Franzï¿½sisch</msg:message>
         <msg:message name="grc">Griechisch (klassisch)</msg:message>
         <msg:message name="grc-latn">Griechisch (klassisch, lateinische Transkription)</msg:message>
-        <msg:message name="he">Hebräisch</msg:message>
-        <msg:message name="he-latn">Hebräisch (lateinische Transkription)</msg:message>
+        <msg:message name="he">Hebrï¿½isch</msg:message>
+        <msg:message name="he-latn">Hebrï¿½isch (lateinische Transkription)</msg:message>
         <msg:message name="ilo">Ilokano</msg:message>
         <msg:message name="it">Italienisch</msg:message>
         <msg:message name="ja">Japanisch</msg:message>
         <msg:message name="la">Latein</msg:message>
         <msg:message name="la-x-bio">Lateinisch (Biologische Nomenklatur)</msg:message>
         <msg:message name="ms">Malaiisch</msg:message>
-        <msg:message name="nl">Niederländisch</msg:message>
-        <msg:message name="nl-1900">Niederländisch (alte Rechtschreibung)</msg:message>
+        <msg:message name="nl">Niederlï¿½ndisch</msg:message>
+        <msg:message name="nl-1900">Niederlï¿½ndisch (alte Rechtschreibung)</msg:message>
         <msg:message name="pt">Portugiesisch</msg:message>
         <msg:message name="pt-br">Portugiesisch (Brasilien)</msg:message>
         <msg:message name="pt-pt">Portugiesisch (Portugal)</msg:message>
@@ -1183,7 +1183,7 @@
 
         <msg:message name="msgPGHeader">
             <p>Das Project Gutenberg E-buch <i><msg:param name="title"/></i>, durch <b><msg:param name="authors"/></b>.</p>
-            <p class="smallprint">Dieses E-buch ist zum allgemeinen, kostenlosen Gebrauch bestimmt, annähernd ohne Einschränkungen. Sie dürfen es kopieren, weitergeben oder weiterverwenden, unter den Bedingungen der Project-Gutenberg-Lizenz. Diese finden Sie im Anhang <a href="#pglicense">dieses Buches</a> oder online unter <a href='https://www.gutenberg.org/'>www.gutenberg.org</a>.</p>
+            <p class="smallprint">Dieses E-buch ist zum allgemeinen, kostenlosen Gebrauch bestimmt, annï¿½hernd ohne Einschrï¿½nkungen. Sie dï¿½rfen es kopieren, weitergeben oder weiterverwenden, unter den Bedingungen der Project-Gutenberg-Lizenz. Diese finden Sie im Anhang <a href="#pglicense">dieses Buches</a> oder online unter <a href='https://www.gutenberg.org/'>www.gutenberg.org</a>.</p>
             <p class="smallprint">Titel: <msg:param name="title"/>.</p>
             <p class="smallprint">Autor: <msg:param name="authors"/>.</p>
             <p class="smallprint">Publikationsdatum: <msg:param name="releasedate"/> [E-buch Nummer: <msg:param name="pgnum"/>]</p>
@@ -1376,10 +1376,10 @@
         <msg:message name="bible.Isaiah">Jesaja</msg:message>
         <msg:message name="bible.Jeremiah">Jeremia</msg:message>
         <msg:message name="bible.Lamentations">Klaagliederen</msg:message>
-        <msg:message name="bible.Ezekiel">Ezechiël</msg:message>
-        <msg:message name="bible.Daniel">Daniël</msg:message>
+        <msg:message name="bible.Ezekiel">Ezechiï¿½l</msg:message>
+        <msg:message name="bible.Daniel">Daniï¿½l</msg:message>
         <msg:message name="bible.Hosea">Hosea</msg:message>
-        <msg:message name="bible.Joel">Joël</msg:message>
+        <msg:message name="bible.Joel">Joï¿½l</msg:message>
         <msg:message name="bible.Amos">Amos</msg:message>
         <msg:message name="bible.Obadiah">Obadja</msg:message>
         <msg:message name="bible.Jonah">Jona</msg:message>
@@ -1396,32 +1396,32 @@
         <msg:message name="bible.1 Esdras">1 Ezra</msg:message>
         <msg:message name="bible.2 Esdras">2 Ezra</msg:message>
         <msg:message name="bible.Judith">Judit</msg:message>
-        <msg:message name="bible.1 Maccabees">1 Makkabeeën</msg:message>
-        <msg:message name="bible.2 Maccabees">2 Makkabeeën</msg:message>
+        <msg:message name="bible.1 Maccabees">1 Makkabeeï¿½n</msg:message>
+        <msg:message name="bible.2 Maccabees">2 Makkabeeï¿½n</msg:message>
         <msg:message name="bible.Manasseh">Het gebed van Manasse</msg:message>
         <msg:message name="bible.Susanna">Susanna</msg:message>
         <msg:message name="bible.Tobit">Tobit</msg:message>
         <msg:message name="bible.Wisdom of Solomon">De wijsheid van Salomo</msg:message>
 
-        <msg:message name="bible.Matthew">Matteüs</msg:message>
+        <msg:message name="bible.Matthew">Matteï¿½s</msg:message>
         <msg:message name="bible.Mark">Marcus</msg:message>
         <msg:message name="bible.Luke">Lucas</msg:message>
         <msg:message name="bible.John">Johannes</msg:message>
         <msg:message name="bible.Acts of the Apostles">Handelingen</msg:message>
         <msg:message name="bible.Romans">Romeinen</msg:message>
-        <msg:message name="bible.1 Corinthians">1 Korintiërs</msg:message>
-        <msg:message name="bible.2 Corinthians">2 Korintiërs</msg:message>
+        <msg:message name="bible.1 Corinthians">1 Korintiï¿½rs</msg:message>
+        <msg:message name="bible.2 Corinthians">2 Korintiï¿½rs</msg:message>
         <msg:message name="bible.Galatians">Galaten</msg:message>
-        <msg:message name="bible.Ephesians">Efeziërs</msg:message>
+        <msg:message name="bible.Ephesians">Efeziï¿½rs</msg:message>
         <msg:message name="bible.Philippians">Filippenzen</msg:message>
         <msg:message name="bible.Colossians">Kolossenzen</msg:message>
         <msg:message name="bible.1 Thessalonians">1 Tessalonicenzen</msg:message>
         <msg:message name="bible.2 Thessalonians">2 Tessalonicenzen</msg:message>
-        <msg:message name="bible.1 Timothy">1 Timoteüs</msg:message>
-        <msg:message name="bible.2 Timothy">2 Timoteüs</msg:message>
+        <msg:message name="bible.1 Timothy">1 Timoteï¿½s</msg:message>
+        <msg:message name="bible.2 Timothy">2 Timoteï¿½s</msg:message>
         <msg:message name="bible.Titus">Titus</msg:message>
         <msg:message name="bible.Philemon">Filemon</msg:message>
-        <msg:message name="bible.Hebrews">Hebreeën</msg:message>
+        <msg:message name="bible.Hebrews">Hebreeï¿½n</msg:message>
         <msg:message name="bible.James">Jakobus</msg:message>
         <msg:message name="bible.1 Peter">1 Petrus</msg:message>
         <msg:message name="bible.2 Peter">2 Petrus</msg:message>
@@ -1570,13 +1570,13 @@
         <msg:message name="es-es">Spaans (Spanje)</msg:message>
         <msg:message name="fi">Fins</msg:message>
         <msg:message name="fj">Fiji</msg:message>
-        <msg:message name="fo">Faeröers</msg:message>
+        <msg:message name="fo">Faerï¿½ers</msg:message>
         <msg:message name="fr">Frans</msg:message>
         <msg:message name="fy">Fries</msg:message>
         <msg:message name="ga">Iers</msg:message>
         <msg:message name="gd">Schots-Gaelisch</msg:message>
         <msg:message name="gl">Galicisch</msg:message>
-        <msg:message name="gn">Guaraní</msg:message>
+        <msg:message name="gn">Guaranï¿½</msg:message>
         <msg:message name="gu">Gujarati</msg:message>
         <msg:message name="ha">Hausa</msg:message>
         <msg:message name="hi">Hindi</msg:message>
@@ -1637,7 +1637,7 @@
         <msg:message name="pl">Pools</msg:message>
         <msg:message name="ps">Pasjtoe</msg:message>
         <msg:message name="pt">Portugees</msg:message>
-        <msg:message name="pt-br">Portugees (Brazilië)</msg:message>
+        <msg:message name="pt-br">Portugees (Braziliï¿½)</msg:message>
         <msg:message name="pt-pt">Portugees (Portugal)</msg:message>
         <msg:message name="qu">Quechua</msg:message>
         <msg:message name="rm">Reto-Romaans</msg:message>
@@ -1681,11 +1681,11 @@
         <msg:message name="ts">Tsonga</msg:message>
         <msg:message name="tt">Tataars</msg:message>
         <msg:message name="tw">Twi</msg:message>
-        <msg:message name="uk">Oekraïens</msg:message>
+        <msg:message name="uk">Oekraï¿½ens</msg:message>
         <msg:message name="ur">Urdu</msg:message>
         <msg:message name="uz">Oezbeeks</msg:message>
         <msg:message name="vi">Vietnamees</msg:message>
-        <msg:message name="vo">Volapük</msg:message>
+        <msg:message name="vo">Volapï¿½k</msg:message>
         <msg:message name="wo">Wolof</msg:message>
         <msg:message name="xh">Xhosa</msg:message>
         <msg:message name="yo">Yoruba</msg:message>
@@ -1891,28 +1891,28 @@
 
     <!-- Tagalog (accented, as used in the 1920's) translation -->
     <msg:messages xml:lang="tl-1920">
-        <msg:message name="msgContents">Nilálamán</msg:message>
-        <msg:message name="msgToc">Nilálamán</msg:message>
-        <msg:message name="msgTableOfContents">Talaán n&gtilde; Nilálamán</msg:message>
-        <msg:message name="msgPage">Páhina</msg:message>
-        <msg:message name="msgSource">Orihinál</msg:message>
-        <msg:message name="msgCorrection">Pagwawastô</msg:message>
+        <msg:message name="msgContents">Nilï¿½lamï¿½n</msg:message>
+        <msg:message name="msgToc">Nilï¿½lamï¿½n</msg:message>
+        <msg:message name="msgTableOfContents">Talaï¿½n n&gtilde; Nilï¿½lamï¿½n</msg:message>
+        <msg:message name="msgPage">Pï¿½hina</msg:message>
+        <msg:message name="msgSource">Orihinï¿½l</msg:message>
+        <msg:message name="msgCorrection">Pagwawastï¿½</msg:message>
         <msg:message name="msgOriginal">Orihinal</msg:message>
-        <msg:message name="msgCorrections">M&gtilde;a Pagwawastô</msg:message>
-        <msg:message name="msgNotInSource">Walâ sa orihinál</msg:message>
+        <msg:message name="msgCorrections">M&gtilde;a Pagwawastï¿½</msg:message>
+        <msg:message name="msgNotInSource">Walï¿½ sa orihinï¿½l</msg:message>
         <msg:message name="msgColophon">Kolopon</msg:message>
         <msg:message name="msgAvailability">M&gtilde;a Maaaring Gamit</msg:message>
         <msg:message name="msgTableOfContents">Talaan ng Nilalaman</msg:message>
-        <msg:message name="msgExternalLink">Panlabás na link</msg:message>
+        <msg:message name="msgExternalLink">Panlabï¿½s na link</msg:message>
         <msg:message name="msgEncoding">Pagkaka-enkowd</msg:message>
         <msg:message name="msgRevisionHistory">Tala ng mga Ginawang Pagbabago</msg:message>
-        <msg:message name="msgExternalReferences">M&gtilde;a Di-Nakapaloób na Reperénsiya</msg:message>
-        <msg:message name="msgExternalReferencesDisclaimer">Ang elektrónikong aklát na itó n&gtilde; Proyektong Gutenberg ay may m&gtilde;a reperénsiyang hindî nakapaloób. Ang m&gtilde;a link para sa m&gtilde;a itó ay maaaring hindî gumana.</msg:message>
-        <msg:message name="msgCorrectionsAppliedToText">Ang m&gtilde;a sumúsunód ay ang m&gtilde;a pagwawastóng ginawâ sa teksto:</msg:message>
-        <msg:message name="msgCorrectionsOverview">Buód ng m&gtilde;a pagwawastóng ginawâ sa teksto.</msg:message>
-        <msg:message name="msgDeleted">Tinanggál</msg:message>
-        <msg:message name="msgTitlePage">Páhina ng Pamagát</msg:message>
-        <msg:message name="msgPreface">Páunáng Salitâ</msg:message>
+        <msg:message name="msgExternalReferences">M&gtilde;a Di-Nakapaloï¿½b na Reperï¿½nsiya</msg:message>
+        <msg:message name="msgExternalReferencesDisclaimer">Ang elektrï¿½nikong aklï¿½t na itï¿½ n&gtilde; Proyektong Gutenberg ay may m&gtilde;a reperï¿½nsiyang hindï¿½ nakapaloï¿½b. Ang m&gtilde;a link para sa m&gtilde;a itï¿½ ay maaaring hindï¿½ gumana.</msg:message>
+        <msg:message name="msgCorrectionsAppliedToText">Ang m&gtilde;a sumï¿½sunï¿½d ay ang m&gtilde;a pagwawastï¿½ng ginawï¿½ sa teksto:</msg:message>
+        <msg:message name="msgCorrectionsOverview">Buï¿½d ng m&gtilde;a pagwawastï¿½ng ginawï¿½ sa teksto.</msg:message>
+        <msg:message name="msgDeleted">Tinanggï¿½l</msg:message>
+        <msg:message name="msgTitlePage">Pï¿½hina ng Pamagï¿½t</msg:message>
+        <msg:message name="msgPreface">Pï¿½unï¿½ng Salitï¿½</msg:message>
         <msg:message name="msgText">Teksto</msg:message>
     </msg:messages>
 
@@ -1923,10 +1923,10 @@
 
         <msg:message name="msgCountOccurrences"><msg:param name="count"/> Ocurrencias</msg:message>
         <msg:message name="msgEditDistance">Editar espacio</msg:message>
-        <msg:message name="msgAbbreviationOverview">Resúmen de abreviaciones</msg:message>
+        <msg:message name="msgAbbreviationOverview">Resï¿½men de abreviaciones</msg:message>
         <msg:message name="msgExpansion">Expandir</msg:message>
-        <msg:message name="msgExpansionNotAvailable">Expansión no disponible</msg:message>
-        <msg:message name="msgLinkToInternetArchive">Vínculo a Internet Archive</msg:message>
+        <msg:message name="msgExpansionNotAvailable">Expansiï¿½n no disponible</msg:message>
+        <msg:message name="msgLinkToInternetArchive">Vï¿½nculo a Internet Archive</msg:message>
         <msg:message name="msgProjectGutenberg">Projecto Gutenberg</msg:message>
         <msg:message name="msgLibraryOfCongress">Biblioteca del congreso</msg:message>
         <msg:message name="msgLibraryThing">LibraryThing</msg:message>
@@ -1935,43 +1935,43 @@
         <msg:message name="msgOpenLibraryWork">Open Library (Obra)</msg:message>
         <msg:message name="msgOclcWorldCat">OCLC/WorldCat</msg:message>
         <msg:message name="msgGitHub">GitHub</msg:message>
-        <msg:message name="msgTitle">Título</msg:message>
+        <msg:message name="msgTitle">Tï¿½tulo</msg:message>
         <msg:message name="msgMetadata">Metadata</msg:message>
-        <msg:message name="msgInfo">Información</msg:message>
+        <msg:message name="msgInfo">Informaciï¿½n</msg:message>
         <msg:message name="msgLanguage">Idioma</msg:message>
-        <msg:message name="msgClassCode">Código de clasificacion</msg:message>
+        <msg:message name="msgClassCode">Cï¿½digo de clasificacion</msg:message>
         <msg:message name="msgSourcePublisher">Editor original</msg:message>
-        <msg:message name="msgSourcePubPlace">Lugar de la edición original</msg:message>
-        <msg:message name="msgSourcePublicationDate">Fecha de la edición original</msg:message>
-        <msg:message name="msgCatalogEntry">Ficha catalográfica</msg:message>
-        <msg:message name="msgCatalogEntries">Fichas catalográfica</msg:message>
-        <msg:message name="msgAuthorOfIntroduction">Autor del prólogo </msg:message>
-        <msg:message name="msgAuthorOfAfterword">Autor del epílogo</msg:message>
-        <msg:message name="msgAuthorOfColophon">Autor del colofón</msg:message>
+        <msg:message name="msgSourcePubPlace">Lugar de la ediciï¿½n original</msg:message>
+        <msg:message name="msgSourcePublicationDate">Fecha de la ediciï¿½n original</msg:message>
+        <msg:message name="msgCatalogEntry">Ficha catalogrï¿½fica</msg:message>
+        <msg:message name="msgCatalogEntries">Fichas catalogrï¿½fica</msg:message>
+        <msg:message name="msgAuthorOfIntroduction">Autor del prï¿½logo </msg:message>
+        <msg:message name="msgAuthorOfAfterword">Autor del epï¿½logo</msg:message>
+        <msg:message name="msgAuthorOfColophon">Autor del colofï¿½n</msg:message>
         <msg:message name="msgAuthorOfPostface">Autor de la nota final</msg:message>
         <msg:message name="msgAnnotator">Anotador</msg:message>
-        <msg:message name="msgBibliographicAntecedent">Antecedente bibliográfico</msg:message>
+        <msg:message name="msgBibliographicAntecedent">Antecedente bibliogrï¿½fico</msg:message>
         <msg:message name="msgAuthorInQuotations">Autor entrecomillado</msg:message>
         <msg:message name="msgAuthorInTextExtracts">Autor en extractos de texto</msg:message>
         <msg:message name="msgArranger">Coordinador</msg:message>
         <msg:message name="msgArtist">Artista</msg:message>
         <msg:message name="msgAssociatedName">Nombre asociado</msg:message>
-        <msg:message name="msgAuthorOfForeword">Autor del prólogo </msg:message>
+        <msg:message name="msgAuthorOfForeword">Autor del prï¿½logo </msg:message>
         <msg:message name="msgAuthorOfPreface">Autor del prefacio</msg:message>
         <msg:message name="msgAuthor">Autor</msg:message>
         <msg:message name="msgBookProducer">Editor</msg:message>
         <msg:message name="msgCollaborator">Colaborador</msg:message>
-        <msg:message name="msgContributor">Autor de comunicación </msg:message>
+        <msg:message name="msgContributor">Autor de comunicaciï¿½n </msg:message>
         <msg:message name="msgCommentator">Comentarista</msg:message>
-        <msg:message name="msgDesigner">Diseñador</msg:message>
+        <msg:message name="msgDesigner">Diseï¿½ador</msg:message>
         <msg:message name="msgEditor">Editor</msg:message>
-        <msg:message name="msgEngraver">Calcógrafo</msg:message>
+        <msg:message name="msgEngraver">Calcï¿½grafo</msg:message>
         <msg:message name="msgIllustrator">Ilustrador</msg:message>
         <msg:message name="msgLyricist">Letrista</msg:message>
-        <msg:message name="msgMusician">Músico</msg:message>
+        <msg:message name="msgMusician">Mï¿½sico</msg:message>
         <msg:message name="msgNarrator">Narrador</msg:message>
         <msg:message name="msgOther">Otro</msg:message>
-        <msg:message name="msgPhotographer">Fotógrafo</msg:message>
+        <msg:message name="msgPhotographer">Fotï¿½grafo</msg:message>
         <msg:message name="msgPrinter">Impresor</msg:message>
         <msg:message name="msgRedactor">Redactor</msg:message>
         <msg:message name="msgReviewer">Corrector</msg:message>
@@ -1980,58 +1980,58 @@
         <msg:message name="msgTranslator">Traductor</msg:message>
         <msg:message name="msgAdaptor">Adaptador</msg:message>
         <msg:message name="msgIllustrator">Ilustrador</msg:message>
-        <msg:message name="msgContributor">Autor de comunicación </msg:message>
+        <msg:message name="msgContributor">Autor de comunicaciï¿½n </msg:message>
 
 
         <msg:message name="msgAbbreviation">Abreviatura</msg:message>
         <msg:message name="msgAbbreviations">Abreviaturas</msg:message>
         <msg:message name="msgApparatusNotes">Notas al texto</msg:message>
-        <msg:message name="msgAppendices">Apéndices</msg:message>
-        <msg:message name="msgAppendix">Apéndice</msg:message>
+        <msg:message name="msgAppendices">Apï¿½ndices</msg:message>
+        <msg:message name="msgAppendix">Apï¿½ndice</msg:message>
         <msg:message name="msgAvailability">Disponibilidad</msg:message>
-        <msg:message name="msgBibliography">Bibliografía</msg:message>
+        <msg:message name="msgBibliography">Bibliografï¿½a</msg:message>
         <msg:message name="msgBook">Libro</msg:message>
         <msg:message name="msgBooks">Libros</msg:message>
-        <msg:message name="msgChapter">Capítulo</msg:message>
-        <msg:message name="msgChapters">Capítulos</msg:message>
-        <msg:message name="msgColophon">Colofón</msg:message>
+        <msg:message name="msgChapter">Capï¿½tulo</msg:message>
+        <msg:message name="msgChapters">Capï¿½tulos</msg:message>
+        <msg:message name="msgColophon">Colofï¿½n</msg:message>
         <msg:message name="msgColor">Color</msg:message>
-        <msg:message name="msgContents">Índice</msg:message>
-        <msg:message name="msgCorrection">Corrección</msg:message>
+        <msg:message name="msgContents">ï¿½ndice</msg:message>
+        <msg:message name="msgCorrection">Correcciï¿½n</msg:message>
         <msg:message name="msgCorrections">Correcciones</msg:message>
         <msg:message name="msgCorrectionsAppliedToText">Se han hecho las siguientes correcciones en el texto:</msg:message>
         <msg:message name="msgCorrectionsOverview">Sumario de las correcciones hechas sobre el texto.</msg:message>
         <msg:message name="msgCoverImage">Imagen de la cubierta</msg:message>
-        <msg:message name="msgDedication">Dedicación</msg:message>
+        <msg:message name="msgDedication">Dedicaciï¿½n</msg:message>
         <msg:message name="msgDeleted">Borrado</msg:message>
-        <msg:message name="msgEncoding">Codificación</msg:message>
+        <msg:message name="msgEncoding">Codificaciï¿½n</msg:message>
         <msg:message name="msgExternalLink">Enlace externo</msg:message>
         <msg:message name="msgExternalReferences">Referencias externas</msg:message>
-        <msg:message name="msgExternalReferencesDisclaimer">Este libro digital de Project Gutenberg contiene referencias externas. Es posible que éstas no funcionen para usted.</msg:message>
+        <msg:message name="msgExternalReferencesDisclaimer">Este libro digital de Project Gutenberg contiene referencias externas. Es posible que ï¿½stas no funcionen para usted.</msg:message>
         <msg:message name="msgFigure">Figura</msg:message>
         <msg:message name="msgFigures">Figuras</msg:message>
-        <msg:message name="msgHere">Aquí</msg:message>
-        <msg:message name="msgIllustration">Ilustración</msg:message>
+        <msg:message name="msgHere">Aquï¿½</msg:message>
+        <msg:message name="msgIllustration">Ilustraciï¿½n</msg:message>
         <msg:message name="msgIllustrations">Ilustraciones</msg:message>
-        <msg:message name="msgIndex">Índice analítico</msg:message>
+        <msg:message name="msgIndex">ï¿½ndice analï¿½tico</msg:message>
         <msg:message name="msgKeyword">Palabra clave</msg:message>
         <msg:message name="msgKeywords">Palabras clave</msg:message>
-        <msg:message name="msgLinkToOpenLibrary">Enlace a la página del catálogo de Open Library</msg:message>
+        <msg:message name="msgLinkToOpenLibrary">Enlace a la pï¿½gina del catï¿½logo de Open Library</msg:message>
         <msg:message name="msgLinkToPg">Enlace al libro digital de Project Gutenberg</msg:message>
-        <msg:message name="msgLinkToWorldCat">Enlace a la página del catálogo de WorldCat</msg:message>
+        <msg:message name="msgLinkToWorldCat">Enlace a la pï¿½gina del catï¿½logo de WorldCat</msg:message>
         <msg:message name="msgListOfIllustrations">Lista de ilustraciones</msg:message>
-        <msg:message name="msgLocation">Ubicación</msg:message>
+        <msg:message name="msgLocation">Ubicaciï¿½n</msg:message>
         <msg:message name="msgLocations">Ubicaciones</msg:message>
         <msg:message name="msgMissingText">falta texto</msg:message>
-        <msg:message name="msgMissingTextWithExtentReason">Falta <msg:param name="extent"/> <msg:param name="unit"/>, por la siguiente razón: <msg:param name="reason"/>.</msg:message>
+        <msg:message name="msgMissingTextWithExtentReason">Falta <msg:param name="extent"/> <msg:param name="unit"/>, por la siguiente razï¿½n: <msg:param name="reason"/>.</msg:message>
         <msg:message name="msgNext">Siguiente</msg:message>
         <msg:message name="msgNotApplicable">N. A.</msg:message>
-        <msg:message name="msgNotCopyrightedUS">Sin derechos de autor en los Estados Unidos. Si vive en otro lugar, consulte las leyes de su país antes de descargar este libro digital.</msg:message>
+        <msg:message name="msgNotCopyrightedUS">Sin derechos de autor en los Estados Unidos. Si vive en otro lugar, consulte las leyes de su paï¿½s antes de descargar este libro digital.</msg:message>
         <msg:message name="msgNote">Nota</msg:message>
         <msg:message name="msgNotes">Notas</msg:message>
         <msg:message name="msgNotInSource">Ausente en la fuente</msg:message>
-        <msg:message name="msgOclcCatalogEntry">Página correspondiente del catálogo de WorldCat</msg:message>
-        <msg:message name="msgOpenLibraryCatalogEntry">Página correspondiente del catálogo de Open Library</msg:message>
+        <msg:message name="msgOclcCatalogEntry">Pï¿½gina correspondiente del catï¿½logo de WorldCat</msg:message>
+        <msg:message name="msgOpenLibraryCatalogEntry">Pï¿½gina correspondiente del catï¿½logo de Open Library</msg:message>
         <msg:message name="msgOriginal">Original</msg:message>
         <msg:message name="msgOriginalBackCover">Cubierta trasera original</msg:message>
         <msg:message name="msgOriginalFrontCover">Cubierta frontal original</msg:message>
@@ -2039,33 +2039,33 @@
         <msg:message name="msgOriginalSpine">Lomo original</msg:message>
         <msg:message name="msgOrnament">Elemento decorativo</msg:message>
         <msg:message name="msgOrnaments">Elementos decorativos</msg:message>
-        <msg:message name="msgPage">Página</msg:message>
-        <msg:message name="msgPages">Páginas</msg:message>
-        <msg:message name="msgParagraph">Párrafo</msg:message>
-        <msg:message name="msgParagraphs">Párrafos</msg:message>
+        <msg:message name="msgPage">Pï¿½gina</msg:message>
+        <msg:message name="msgPages">Pï¿½ginas</msg:message>
+        <msg:message name="msgParagraph">Pï¿½rrafo</msg:message>
+        <msg:message name="msgParagraphs">Pï¿½rrafos</msg:message>
         <msg:message name="msgPart">Parte</msg:message>
         <msg:message name="msgParts">Partes</msg:message>
-        <msg:message name="msgPgCatalogEntry">Página del catálogo de Project Gutenberg</msg:message>
-        <msg:message name="msgPlate">Lámina</msg:message>
-        <msg:message name="msgPlates">Láminas</msg:message>
+        <msg:message name="msgPgCatalogEntry">Pï¿½gina del catï¿½logo de Project Gutenberg</msg:message>
+        <msg:message name="msgPlate">Lï¿½mina</msg:message>
+        <msg:message name="msgPlates">Lï¿½minas</msg:message>
         <msg:message name="msgPreface">Prefacio</msg:message>
         <msg:message name="msgPrevious">Anterior</msg:message>
         <msg:message name="msgRevisionHistory">Historial de modificaciones</msg:message>
-        <msg:message name="msgSection">Sección</msg:message>
+        <msg:message name="msgSection">Secciï¿½n</msg:message>
         <msg:message name="msgSections">Secciones</msg:message>
         <msg:message name="msgSource">Fuente</msg:message>
         <msg:message name="msgSources">Fuentes</msg:message>
         <msg:message name="msgTable">Tabla</msg:message>
-        <msg:message name="msgTableOfContents">Índice</msg:message>
+        <msg:message name="msgTableOfContents">ï¿½ndice</msg:message>
         <msg:message name="msgTables">Tablas</msg:message>
         <msg:message name="msgText">Texto</msg:message>
         <msg:message name="msgTitlePage">Portada</msg:message>
-        <msg:message name="msgToc">Índice</msg:message>
-        <msg:message name="msgTranscription">Transcripción</msg:message>
+        <msg:message name="msgToc">ï¿½ndice</msg:message>
+        <msg:message name="msgTranscription">Transcripciï¿½n</msg:message>
         <msg:message name="msgTranscriptions">Transcripciones</msg:message>
         <msg:message name="msgUrl">URL</msg:message>
         <msg:message name="msgVolume">Volumen</msg:message>
-        <msg:message name="msgVolumes">Volúmenes</msg:message>
+        <msg:message name="msgVolumes">Volï¿½menes</msg:message>
 
         <!--IFG Note in Spanish month names are lowercase -->
         <msg:message name="msgJanuary">Enero</msg:message>
@@ -2085,33 +2085,33 @@
         <msg:message name="msgSunday">Domingo</msg:message>
         <msg:message name="msgMonday">Lunes</msg:message>
         <msg:message name="msgTuesday">Martes</msg:message>
-        <msg:message name="msgWednesday">Miércoles</msg:message>
+        <msg:message name="msgWednesday">Miï¿½rcoles</msg:message>
         <msg:message name="msgThursday">Jueves</msg:message>
         <msg:message name="msgFriday">Viernes</msg:message>
-        <msg:message name="msgSaturday">Sábado</msg:message>
+        <msg:message name="msgSaturday">Sï¿½bado</msg:message>
 
         <msg:message name="fmtFullDate"><msg:param name="day"/>, <msg:param name="date"/> de <msg:param name="month"/> de <msg:param name="year"/></msg:message>
 
         <!-- ISO 639 two letter codes -->
         <!-- IFG Note in Spanish language names are lowercase -->
-        <msg:message name="de">Alemán</msg:message>
+        <msg:message name="de">Alemï¿½n</msg:message>
         <msg:message name="el">Griego</msg:message>
-        <msg:message name="en">Inglés</msg:message>
-        <msg:message name="en-uk">Inglés (R. U.)</msg:message>
-        <msg:message name="en-us">Inglés (EE. UU.)</msg:message>
-        <msg:message name="es">Español</msg:message>
-        <msg:message name="es-es">Español (España)</msg:message>
-        <msg:message name="fi">Finés</msg:message>
-        <msg:message name="fr">Francés</msg:message>
-        <msg:message name="grc">Griego (clásico)</msg:message>
+        <msg:message name="en">Inglï¿½s</msg:message>
+        <msg:message name="en-uk">Inglï¿½s (R. U.)</msg:message>
+        <msg:message name="en-us">Inglï¿½s (EE. UU.)</msg:message>
+        <msg:message name="es">Espaï¿½ol</msg:message>
+        <msg:message name="es-es">Espaï¿½ol (Espaï¿½a)</msg:message>
+        <msg:message name="fi">Finï¿½s</msg:message>
+        <msg:message name="fr">Francï¿½s</msg:message>
+        <msg:message name="grc">Griego (clï¿½sico)</msg:message>
         <msg:message name="it">Italiano</msg:message>
-        <msg:message name="ja">Japonés</msg:message>
-        <msg:message name="la">Latín</msg:message>
-        <msg:message name="nl">Neerlandés</msg:message>
-        <msg:message name="nl-1900">Neerlandés (ortografía antigua)</msg:message>
-        <msg:message name="pt">Portugués</msg:message>
-        <msg:message name="pt-br">Portugués (Brasil)</msg:message>
-        <msg:message name="pt-pt">Portugués (Portugal)</msg:message>
+        <msg:message name="ja">Japonï¿½s</msg:message>
+        <msg:message name="la">Latï¿½n</msg:message>
+        <msg:message name="nl">Neerlandï¿½s</msg:message>
+        <msg:message name="nl-1900">Neerlandï¿½s (ortografï¿½a antigua)</msg:message>
+        <msg:message name="pt">Portuguï¿½s</msg:message>
+        <msg:message name="pt-br">Portuguï¿½s (Brasil)</msg:message>
+        <msg:message name="pt-pt">Portuguï¿½s (Portugal)</msg:message>
         <msg:message name="tl">Tagalo</msg:message>
         <msg:message name="zh">Chino</msg:message>
 
@@ -2129,23 +2129,23 @@
 
 
         <msg:message name="msgPGHeader">
-            <p>La versión digital de Project Gutenberg de <i><msg:param name="title"/></i>, por <b><msg:param name="authors"/></b>.</p>
-            <p class="smallprint">Este libro digital es para el uso de cualquier persona en cualquier lugar sin costo y casi sin restricciones de ningún tipo. Lo puede copiar, regalar o volver a usar bajo los términos de la Licencia de Project Gutenberg incluida con <a href="#pglicense">este libro digital</a> o en línea en <a href="https://www.gutenberg.org/">www.gutenberg.org</a> </p>
-            <p class="smallprint">Título: <msg:param name="title"/>.</p>
+            <p>La versiï¿½n digital de Project Gutenberg de <i><msg:param name="title"/></i>, por <b><msg:param name="authors"/></b>.</p>
+            <p class="smallprint">Este libro digital es para el uso de cualquier persona en cualquier lugar sin costo y casi sin restricciones de ningï¿½n tipo. Lo puede copiar, regalar o volver a usar bajo los tï¿½rminos de la Licencia de Project Gutenberg incluida con <a href="#pglicense">este libro digital</a> o en lï¿½nea en <a href="https://www.gutenberg.org/">www.gutenberg.org</a> </p>
+            <p class="smallprint">Tï¿½tulo: <msg:param name="title"/>.</p>
             <p class="smallprint">Autor(es): <msg:param name="authors"/>.</p>
-            <p class="smallprint">Fecha de publicación: <msg:param name="releasedate"/> [Libro digital n.º <msg:param name="pgnum"/>]</p>
+            <p class="smallprint">Fecha de publicaciï¿½n: <msg:param name="releasedate"/> [Libro digital n.ï¿½ <msg:param name="pgnum"/>]</p>
             <p class="smallprint">Idioma: <msg:param name="language"/>.</p>
-            <p class="smallprint">Codificación: UTF-8.</p>
+            <p class="smallprint">Codificaciï¿½n: UTF-8.</p>
         </msg:message>
 
         <msg:message name="msgPGFooter">
-            <p name="smallprint">Fin de la versión de Project Gutenberg de <i><msg:param name="title"/></i>, por <b><msg:param name="authors"/></b>.</p>
+            <p name="smallprint">Fin de la versiï¿½n de Project Gutenberg de <i><msg:param name="title"/></i>, por <b><msg:param name="authors"/></b>.</p>
             <p class="smallprint">Este archivo debe tener el nombre <msg:param name="pgnum"/>-h.html o <msg:param name="pgnum"/>-h.zip.</p>
-            <p class="smallprint">Este y todos los archivos asociados en distintos formatos formatos se encontrarán en:</p>
+            <p class="smallprint">Este y todos los archivos asociados en distintos formatos formatos se encontrarï¿½n en:</p>
             <p class="smallprint">https://www.gutenberg.org/<msg:param name="pgpath"/></p>
             <p class="smallprint">Producido por <msg:param name="transcriber"/>.</p>
-            <p class="smallprint">Las ediciones actualizadas sustituirán a las ediciones previas. Las ediciones anteriores recibirán nombres nuevos.</p>
-            <p class="smallprint">Estas obras se crean a partir de ediciones impresas de dominio público, lo que significa que nadie es dueño de los derechos de autor de estas obras en los Estados Unidos, así que la Fundación (¡y usted!) puede copiarlas y distribuirlas en los Estados Unidos sin necesidad de permiso y sin pagar derechos de autor. Algunas reglas especiales, establecidas en la sección de Términos de Uso Generales de esta licencia, se aplican a la copia y distribución de las obras digitales de Proyect Gutenberg&#8482; para proteger el concepto y la marca registrada de PROJECT GUTENBERG&#8482;. Project Gutenberg&#8482; es una marca registrada, y no puede usarse si cobra por los libros digitales, a menos que reciba permiso específico. Si no cobra nada por las copias de este libro digital, cumplir con las reglas es muy fácil. Puede usar este libro digital para casi cualquier propósito, como para la creación de obras derivadas, informes, espectáculos e investigación. Puede modificarlo, imprimirlo y regalaro: se puede hacer casi CUALQUIER COSA con los libros digitales de dominio público. La redistribución está sujeta a la licencia de la marca registrada, especialmente en el caso de redistribución comercial. Por razones legales la licencia completa no ha sido traducida, y se encuentra a continuación en inglés.</p>
+            <p class="smallprint">Las ediciones actualizadas sustituirï¿½n a las ediciones previas. Las ediciones anteriores recibirï¿½n nombres nuevos.</p>
+            <p class="smallprint">Estas obras se crean a partir de ediciones impresas de dominio pï¿½blico, lo que significa que nadie es dueï¿½o de los derechos de autor de estas obras en los Estados Unidos, asï¿½ que la Fundaciï¿½n (ï¿½y usted!) puede copiarlas y distribuirlas en los Estados Unidos sin necesidad de permiso y sin pagar derechos de autor. Algunas reglas especiales, establecidas en la secciï¿½n de Tï¿½rminos de Uso Generales de esta licencia, se aplican a la copia y distribuciï¿½n de las obras digitales de Proyect Gutenberg&#8482; para proteger el concepto y la marca registrada de PROJECT GUTENBERG&#8482;. Project Gutenberg&#8482; es una marca registrada, y no puede usarse si cobra por los libros digitales, a menos que reciba permiso especï¿½fico. Si no cobra nada por las copias de este libro digital, cumplir con las reglas es muy fï¿½cil. Puede usar este libro digital para casi cualquier propï¿½sito, como para la creaciï¿½n de obras derivadas, informes, espectï¿½culos e investigaciï¿½n. Puede modificarlo, imprimirlo y regalaro: se puede hacer casi CUALQUIER COSA con los libros digitales de dominio pï¿½blico. La redistribuciï¿½n estï¿½ sujeta a la licencia de la marca registrada, especialmente en el caso de redistribuciï¿½n comercial. Por razones legales la licencia completa no ha sido traducida, y se encuentra a continuaciï¿½n en inglï¿½s.</p>
     </msg:message>
 </msg:messages>
 

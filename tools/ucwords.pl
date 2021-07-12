@@ -1321,7 +1321,7 @@ sub loadGoodBadWords() {
     %badWordsHash = ();
 
     if (-e 'good_words.txt') {
-        if (open(GOODWORDSFILE, "<:encoding(iso-8859-1)", "good_words.txt")) {
+        if (open(GOODWORDSFILE, "<:encoding(utf-8)", "good_words.txt")) {
             my $count = 0;
             while (<GOODWORDSFILE>) {
                 my $dictword =  $_;
@@ -1335,7 +1335,7 @@ sub loadGoodBadWords() {
     }
 
     if (-e 'bad_words.txt') {
-        if (open(BADWORDSFILE, "<:encoding(iso-8859-1)", "bad_words.txt")) {
+        if (open(BADWORDSFILE, "<:encoding(utf-8)", "bad_words.txt")) {
             my $count = 0;
             while (<BADWORDSFILE>) {
                 my $dictword =  $_;
@@ -1644,14 +1644,14 @@ sub StripDiacritics($) {
         s/\pM//g;           ## strip combining characters
 
         # additional normalizations: (see https://en.wikipedia.org/wiki/Typographic_ligature)
-        s/\x{00df}/ss/g;    ## German eszet “ß” -> “ss”
-        s/\x{1E9E}/SS/g;    ## German capital eszet “ß” -> “SS”
-        s/\x{00c6}/AE/g;    ## Æ
-        s/\x{00e6}/ae/g;    ## æ
+        s/\x{00df}/ss/g;    ## German eszet ï¿½ß” -> ï¿½ssï¿½
+        s/\x{1E9E}/SS/g;    ## German capital eszet ï¿½ß” -> ï¿½SSï¿½
+        s/\x{00c6}/AE/g;    ## ï¿½
+        s/\x{00e6}/ae/g;    ## ï¿½
         s/\x{0132}/IJ/g;    ## Dutch IJ
         s/\x{0133}/ij/g;    ## Dutch ij
-        s/\x{0152}/OE/g;    ## Œ
-        s/\x{0153}/oe/g;    ## œ
+        s/\x{0152}/OE/g;    ## ï¿½
+        s/\x{0153}/oe/g;    ## ï¿½
 
         s/\x{A734}/AO/g;    ## Ligature AO
         s/\x{A735}/ao/g;    ## ligature ao
@@ -1670,10 +1670,10 @@ sub StripDiacritics($) {
 
         s/\x{0640}//g;      ## Arabic tatweel
 
-        tr/\x{00d0}\x{0110}\x{00f0}\x{0111}\x{0126}\x{0127}/DDddHh/; # ÐÐðdHh
+        tr/\x{00d0}\x{0110}\x{00f0}\x{0111}\x{0126}\x{0127}/DDddHh/; # ï¿½ï¿½ï¿½dHh
         tr/\x{0131}\x{0138}\x{013f}\x{0141}\x{0140}\x{0142}/ikLLll/; # i??L?l
-        tr/\x{014a}\x{0149}\x{014b}\x{00d8}\x{00f8}\x{017f}/NnnOos/; # ???Øø?
-        tr/\x{00de}\x{0166}\x{00fe}\x{0167}/TTtt/;                   # ÞTþt
+        tr/\x{014a}\x{0149}\x{014b}\x{00d8}\x{00f8}\x{017f}/NnnOos/; # ???ï¿½ï¿½?
+        tr/\x{00de}\x{0166}\x{00fe}\x{0167}/TTtt/;                   # ï¿½Tï¿½t
     }
     return $string;
 }

@@ -416,7 +416,7 @@ sub handleTeiFile {
         # words-file
         my $wordsFileName = $filePath . "$baseName-words.html";
         if (-e $wordsFileName) {
-            if (open(WORDSFILE, "<:encoding(iso-8859-1)", $wordsFileName)) {
+            if (open(WORDSFILE, "<:encoding(utf-8)", $wordsFileName)) {
                 while (<WORDSFILE>) {
                     my $line =  $_;
                     if ($line =~ /<td id=textWordCount>([0-9]+)/) {

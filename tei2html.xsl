@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE xsl:stylesheet>
 
 <xsl:stylesheet version="3.0"
@@ -47,13 +47,13 @@
         doctype-public="-//W3C//DTD HTML 4.01 Transitional//EN"
         doctype-system="http://www.w3.org/TR/html4/loose.dtd"
         method="html"
-        encoding="utf-8"/> <!-- iso-8859-1; utf-8 -->
+        encoding="utf-8"/> <!-- utf-8; utf-8 -->
 
     <!--<xsl:output
         doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
         doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
         method="xml"
-        encoding="iso-8859-1"/>-->
+        encoding="utf-8"/>-->
 
 
     <!--====================================================================-->

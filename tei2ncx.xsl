@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 
     <xsl:stylesheet version="2.0"
         xmlns="http://www.daisy.org/z3986/2005/ncx/"

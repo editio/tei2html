@@ -43,7 +43,7 @@ print STDERR "NOTICE:  Changed $changed words\n";
 sub loadWords($)
 {
 	my $file = shift;
-	open(WORDSFILE, "<:encoding(iso-8859-1)", "$file") || die ("ERROR: Could not open input file $file");
+	open(WORDSFILE, "<:encoding(utf-8)", "$file") || die ("ERROR: Could not open input file $file");
 
     my $count = 0;
     while (<WORDSFILE>)
@@ -62,7 +62,7 @@ sub loadWords($)
 sub loadDictionary($)
 {
 	my $file = shift;
-	open(DICTFILE, "<:encoding(iso-8859-1)", "$file") || die ("ERROR: Could not open input file $file");
+	open(DICTFILE, "<:encoding(utf-8)", "$file") || die ("ERROR: Could not open input file $file");
 
     my $count = 0;
     while (<DICTFILE>)
@@ -90,7 +90,7 @@ sub loadDictionary($)
 #
 sub modernizeText()
 {
-    open (INPUTFILE, "<:encoding(iso-8859-1)", $infile) || die("ERROR: Could not open input file $infile");
+    open (INPUTFILE, "<:encoding(utf-8)", $infile) || die("ERROR: Could not open input file $infile");
 
     while (<INPUTFILE>)
     {
