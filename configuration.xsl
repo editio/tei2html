@@ -116,7 +116,7 @@
             <beta.convert>false</beta.convert>                              <!-- Interprete beta-codes if the language is classical Greek (i.e., @xml:lang="grc"). -->
             <beta.caseSensitive>false</beta.caseSensitive>                  <!-- Beta-code is case sensitive (i.e., not using the * notation for capital letters) -->
 
-            <css.stylesheet>style/arctic.css</css.stylesheet>               <!-- Default CSS stylesheet(s) to include; these are distributed with tei2html in the style directory. -->
+            <css.stylesheet>style/modern.css</css.stylesheet>               <!-- Default CSS stylesheet(s) to include; these are distributed with tei2html in the style directory. -->
             <css.useCommon>true</css.useCommon>                             <!-- Use the build-in stylesheets (for screen) -->
             <css.useCommonPrint>true</css.useCommonPrint>                   <!-- Use the build-in stylesheets (for print media) -->
             <css.useCommonAural>false</css.useCommonAural>                  <!-- Use the build-in stylesheets (for aural support) -->
