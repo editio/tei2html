@@ -32,6 +32,8 @@
         <xd:copyright>2014, Jeroen Hellingman</xd:copyright>
     </xd:doc>
 
+<!-- EDIT by @editio to add Stichomythia-->
+
 
     <!--====================================================================-->
     <!-- Poetry -->
@@ -184,7 +186,65 @@
         to hide that text such that the current line of the hemistich shows up indented the correct way).</xd:detail>
     </xd:doc>
 
+ <xsl:template match="l" >
+
+        <xsl:element name="{$p.element}">
+            <xsl:copy-of select="f:set-lang-id-attributes(.)"/>
+
+            <xsl:variable name="class">
+                <xsl:text>line </xsl:text>
+                <xsl:value-of select="f:hanging-punctuation-class(.)"/>
+            </xsl:variable>
+            
+            <xsl:variable name="partI">
+                <xsl:text>line-part-I</xsl:text>
+                <xsl:value-of select="f:hanging-punctuation-class(.)"/>
+            </xsl:variable>      
+                       
+            <xsl:variable name="partF">
+                <!--/* @editio. the atributte line here was intended to count verses using css (verse.css layout.css). Not in use for now -->
+                <xsl:text>line-part-F line</xsl:text>
+                <xsl:value-of select="f:hanging-punctuation-class(.)"/>
+            </xsl:variable>
+            
+            <xsl:variable name="partM">
+                <xsl:text>line-part-M</xsl:text>
+                <xsl:value-of select="f:hanging-punctuation-class(.)"/>
+            </xsl:variable>
+            
+            <xsl:choose>
+                <xsl:when test="@part='F'">
+                    <xsl:copy-of select="f:set-class-attribute-with(., $partF)"/>
+                </xsl:when>
+                <xsl:when test="@part='M'">
+                    <xsl:copy-of select="f:set-class-attribute-with(., $partM)"/>
+                </xsl:when>
+                <xsl:when test="@part='I'">
+                    <xsl:copy-of select="f:set-class-attribute-with(., $partI)"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:copy-of select="f:set-class-attribute-with(., $class)"/>
+                </xsl:otherwise>
+            </xsl:choose>
+            
+             <xsl:if test="@n">
+                <span class="lineNum"><xsl:value-of select="@n"/><xsl:text> </xsl:text></span>
+            </xsl:if>
+
+            <xsl:if test="f:has-rend-value(@rend, 'hemistich')">
+                <span class="hemistich">
+                    <xsl:copy-of select="f:handle-hemistich-value(.)"/>
+                </span>
+            </xsl:if>
+            <xsl:apply-templates/>
+         
+        </xsl:element>
+        
+    </xsl:template>
+
+<!-- ORIGINAL template for <l>
     <xsl:template match="l">
+    
         <xsl:element name="{$p.element}">
             <xsl:copy-of select="f:set-lang-id-attributes(.)"/>
 
@@ -206,6 +266,31 @@
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
+-->
+
+<!-- @editio Added this attribute to place the stages coded with inline, inline with the speaker. In the original code seems to be something like that "inline-stage", but did not work with my tei examples -->
+    
+    <xsl:template match="stage[@place='inline']">
+        <span>
+            <xsl:copy-of select="f:set-lang-id-attributes(.)"/>
+            <xsl:copy-of select="f:set-class-attribute-with(., 'stage-inline' )"/>
+            <xsl:apply-templates/>   
+        </span>
+    </xsl:template>
+    
+<!-- @editio Added a tooltip to play with css for unclear -->
+    <xsl:template match="unclear">
+        <span>
+            <xsl:copy-of select="f:set-lang-id-attributes(.)"/>
+            <xsl:copy-of select="f:set-class-attribute-with(., 'unclear tooltip' )"/>
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+<!-- @editio ^ -->
+
+
+
+
 
     <xsl:function name="f:handle-hemistich-value">
         <xsl:param name="node" as="element()"/>
