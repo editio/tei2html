@@ -1,7 +1,8 @@
 
 [![xspec tests](https://github.com/jhellingman/tei2html/actions/workflows/test.yml/badge.svg)](https://github.com/jhellingman/tei2html/actions/workflows/test.yml)
 
-**note**: forked from jhellingman/tei2html to include utf-8 encoding as output.
+# **Note from @editio**: 
+- repository forked from jhellingman/tei2html to include utf-8 encoding as output, and to render stichomythia in drama files.
 
 # tei2html
 
